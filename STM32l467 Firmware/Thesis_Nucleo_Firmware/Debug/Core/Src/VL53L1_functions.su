@@ -1,0 +1,9 @@
+../Core/Src/VL53L1_functions.c:28:6:SetupCommscanIseeDevice	16	static
+../Core/Src/VL53L1_functions.c:64:6:setupDeviceForSingleRanging	8	static
+../Core/Src/VL53L1_functions.c:99:6:refSPADCalibration	8	static
+../Core/Src/VL53L1_functions.c:113:6:offsetCalibration	16	static
+../Core/Src/VL53L1_functions.c:143:6:crossTalkCalibration	16	static
+../Core/Src/VL53L1_functions.c:148:5:takeSinglePollingMeasurement	8	static
+../Core/Src/VL53L1_functions.c:189:5:takeMultiplePollingMeasurements	88	dynamic
+../Core/Src/VL53L1_functions.c:251:6:print_pal_error	528	static
+../Core/Src/VL53L1_functions.c:261:6:print_range_status	528	static

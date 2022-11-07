@@ -1,0 +1,6 @@
+C:/Users/dylan/OneDrive/UNI/2022/Thesis Things/Code/Nucleo code/Thesis_Nucleo_Firmware/VL53L1X_API/platform/Src/sensor_bsp.c:8:5:SB_vprintf	16	static
+C:/Users/dylan/OneDrive/UNI/2022/Thesis Things/Code/Nucleo code/Thesis_Nucleo_Firmware/VL53L1X_API/platform/Src/sensor_bsp.c:13:5:SB_printf	16	static
+C:/Users/dylan/OneDrive/UNI/2022/Thesis Things/Code/Nucleo code/Thesis_Nucleo_Firmware/VL53L1X_API/platform/Src/sensor_bsp.c:29:16:ITM_TraceWrite	24	static
+C:/Users/dylan/OneDrive/UNI/2022/Thesis Things/Code/Nucleo code/Thesis_Nucleo_Firmware/VL53L1X_API/platform/Src/sensor_bsp.c:49:5:SB_VDebug	24	static
+C:/Users/dylan/OneDrive/UNI/2022/Thesis Things/Code/Nucleo code/Thesis_Nucleo_Firmware/VL53L1X_API/platform/Src/sensor_bsp.c:56:5:SB_Debug	16	static
+C:/Users/dylan/OneDrive/UNI/2022/Thesis Things/Code/Nucleo code/Thesis_Nucleo_Firmware/VL53L1X_API/platform/Src/sensor_bsp.c:76:7:SB_TmpBuffer	4	static

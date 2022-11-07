@@ -1,0 +1,2 @@
+../VL53L1X_API/platform/src/vl53l1_platform_init.c:41:14:VL53L1_platform_init	24	static
+../VL53L1X_API/platform/src/vl53l1_platform_init.c:103:14:VL53L1_platform_terminate	24	static
