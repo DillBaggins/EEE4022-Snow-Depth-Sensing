@@ -7,7 +7,7 @@ The project entailed the investigation of
 - Laser Ranging
 
 ## Ultrasonic Driver/Receiver Circuit
-Schematics and gerber files for the ultrasonic driver/receiever board can be found in the "Ultrasound Driving PCB" directory.
+Schematics and gerber files for the ultrasonic driver/receiever board can be found [here](https://github.com/DillBaggins/ultrasonicDriverPCB).
 This circuit can be driven with a regulated $\pm$ 15V or an unregulated $\pm$\[16V,20V\]. 
 
 This circuit has a number of problems, as explored in my thesis. The chief of which being the amount of cross-talk between the transducers, this could be corrected either by the design of an appropriate housing for the board or through signal processing means. Additionally, the fixed receiver gain is not ideal and should be revised to allow for the reciever gain to be digitally controller by the host microcontroller
